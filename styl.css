@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #fff;
+}
+
+.block {
+    border-radius: 10px;
+    padding: 20px;
+}
+
+h1,
+label {
+    color: #ffff;
+
+}
+
+input[type=search] {
+    color: white;
+}
+
+.bul {
+    background-color: #2C74B3;
+}
+
+.secondary {
+    background-color: #0A2647;
+}
+
+a {
+    color: white !important;
+}
