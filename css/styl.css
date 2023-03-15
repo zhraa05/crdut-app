@@ -33,6 +33,6 @@ input[type=search] {
 a {
     color: white !important;
 }
-.dataTables_info {
+div#tablPro_info {
     color: #fff;
 }
