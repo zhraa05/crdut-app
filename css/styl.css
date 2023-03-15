@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: #fff !important;
+    background-color: #fff;
 }
 
 .block {
@@ -33,6 +33,7 @@ input[type=search] {
 a {
     color: white !important;
 }
+
 div#tablPro_info {
     color: #fff;
 }
